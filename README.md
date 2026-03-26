@@ -8,13 +8,15 @@ This project is provided for educational and demonstration purposes only.
 
 ## Overview
 
-This is the setup repository for a four-part blog series on building ML pipelines on Snowflake. It creates the Snowflake environment and synthetic data used by all downstream implementations.
+This is the setup repository for a five-part blog series on building ML pipelines on Snowflake. It creates the Snowflake environment and synthetic data used by all downstream implementations.
 
 | Downstream Repo | Blog | Approach |
 |-----------------|------|----------|
 | [snowflake-ds-01-notebooks](https://github.com/jar-ry/snowflake-ds-01-notebooks) | Snowflake Notebooks | Interactive development in Snowflake UI |
 | [snowflake-ds-02-ml-jobs-notebook](https://github.com/jar-ry/snowflake-ds-02-ml-jobs-notebook) | ML Jobs with `@remote` | Local IDE + remote compute |
 | [snowflake-ds-03-ml-jobs-framework](https://github.com/jar-ry/snowflake-ds-03-ml-jobs-framework) | ML Jobs Framework | Modular Python + `submit_directory` |
+| [snowflake-ds-04-feature-store](https://github.com/jar-ry/snowflake-ds-04-feature-store) | Split Repo (Feature Store) | Separate feature engineering repo |
+| [snowflake-ds-04-ml-training](https://github.com/jar-ry/snowflake-ds-04-ml-training) | Split Repo (ML Training) | Separate model training repo |
 
 ## Prerequisites
 
