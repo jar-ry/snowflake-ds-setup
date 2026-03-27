@@ -3,7 +3,7 @@
 # Snowflake Data Science Environment Setup Script
 # =============================================================================
 # This script creates a conda environment from conda.yml for the 
-# Retail CLV Regression Demo project.
+# Retail Customer Value Regression Demo project.
 # =============================================================================
 
 set -e  # Exit on error

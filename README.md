@@ -1,4 +1,4 @@
-# Snowflake Data Science Setup - Retail CLV Regression Demo
+# Snowflake Data Science Setup - Retail Customer Value Regression Demo
 
 ## Disclaimer
 
@@ -108,7 +108,7 @@ jupyter lab Step01_Setup.ipynb
 | Database | `RETAIL_REGRESSION_DEMO` |
 | Schemas | `DS`, `MODELLING`, `FEATURE_STORE` |
 | Warehouse | `RETAIL_REGRESSION_DEMO_WH` |
-| Compute Pool | `CLV_MODEL_POOL_CPU` |
+| Compute Pool | `CUSTOMER_VALUE_MODEL_POOL_CPU` |
 | Role | `RETAIL_REGRESSION_DEMO_ROLE` |
 | Tables | `CUSTOMERS`, `PURCHASE_BEHAVIOR` (10,000 rows each) |
 
