@@ -134,7 +134,7 @@ jupyter lab Step01_Setup.ipynb
 | AVG_ORDER_VALUE | DECIMAL | Average transaction ($15-$500) |
 | PURCHASE_FREQUENCY | DECIMAL | Orders per month (0.1-8) |
 | RETURN_RATE | DECIMAL | % items returned (0-30%) |
-| LIFETIME_VALUE | DECIMAL | Expected monthly value (regression target) |
+| MONTHLY_CUSTOMER_VALUE | DECIMAL | Expected monthly value (regression target) |
 
 ## Configuration
 
